@@ -3,3 +3,4 @@ test.txt new modify
 third test
 new test
 0505 test
+ok 
